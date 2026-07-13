@@ -1,0 +1,16 @@
+﻿.gradle/
+.idea/
+build/
+core/build/
+lwjgl3/build/
+out/
+*.iml
+*.log
+hs_err_pid*.log
+.DS_Store
+assets/saves/*.json
+assets/saves/*.kvdb
+README.md
+INSTALL_FA.txt
+FINAL_*.md
+FINAL_*.txt
